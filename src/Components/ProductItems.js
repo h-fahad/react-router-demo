@@ -18,7 +18,7 @@ return <h1>Product not Found</h1>
           <h5>
             {shoe.name}
           </h5>
-          <img src={shoe.img} height={500} />
+          <img src={shoe.img} height={500} alt="" />
         
         </div>
     </div>
